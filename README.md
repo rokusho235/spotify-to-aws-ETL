@@ -4,7 +4,7 @@ ETL Pipeline: Spotify API > AWS [CloudWatch trigger > Lambda (Python) > S3 > Cra
 
 ### Architecture Diagram
 
-![Architecture Diagram](https://media.licdn.com/dms/image/D4E22AQElmJVBRVcLVQ/feedshare-shrink_1280/0/1699018039964?e=1717027200&v=beta&t=tuUnJa6i-A0aS41z6puuqIw7pncKZx77dLDAU1SMq3E)
+![Architecture Diagram](https://raw.githubusercontent.com/rokusho235/spotify-to-aws-project/main/awsPipeline.png)
 
 ### Services Used
 
